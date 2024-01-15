@@ -6,5 +6,16 @@
         "nodes": {
             "lower-case": "lower-case.js"
         }
-    }
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cherrycl/node-red-test/tree/main/sample-test"
+      },
+      "keywords": ["sample"],
+      "bugs": {
+        "url": "https://github.com/cherrycl/node-red-test/issues"
+      }
 }
