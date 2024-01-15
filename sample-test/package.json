@@ -1,0 +1,10 @@
+{
+    "name" : "@iotechcherry/lower-case",
+    "version": "0.0.1",
+    "author": "Cherry Wang <cherry@iotechsys.com>",
+    "node-red" : {
+        "nodes": {
+            "lower-case": "lower-case.js"
+        }
+    }
+}
